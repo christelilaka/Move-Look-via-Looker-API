@@ -9,7 +9,7 @@ for issues with this program. Issues can be logged via https://github.com/christ
 
 ## Installation
 
-This is programm uses the Looker SDK for Python.
+This program uses the Looker SDK for Python.
 1. Install the [Looker SDK for Python](https://pypi.org/project/looker-sdk/)
 2. Download the repository to your computer and navigate to the folder
 
